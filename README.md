@@ -10,7 +10,7 @@
 - Why do Internet services fail, and what can be done about it? - David Oppenheimer
 - STELLA Report - Allspaw/Cook/Woods - https://snafucatchers.github.io/
 
-##Books
+## Books
 - Google SRE Book Oreilly - free online
 - Drifting into failure: theorising the dynamics of disaster incubation - Sidney Dekker - https://www.researchgate.net/publication/266742828_Drifting_into_failure_Theorising_the_dynamics_of_disaster_incubation
 - Seeking SRE - Allspaw, Google, Casey Rosenthal
@@ -19,7 +19,7 @@
 - Web Operations: Keeping the Data on Time - John Allspaw & Jesse Robins
 
 
-##Security Chaos Engineering Resources
+## Security Chaos Engineering Resources
 
 - What is security chaos engineering and why is it important? | Packt Hub - https://hub.packtpub.com/what-is-security-chaos-engineering-and-why-is-it-important/
 - Security Chaos Engineering: A new paradigm for cybersecurity - https://opensource.com/article/18/1/new-paradigm-cybersecurity
@@ -27,7 +27,7 @@
 - Purple testing and chaos engineering in securityexperimentation - https://opensource.com/article/18/6/security-experimentation
 - A new approach to security instrumentation - https://opensource.com/article/18/4/new-approach-security-instrumentation
 
-##Videos/Conf Talks/Courses
+## Videos/Conf Talks/Courses
 
 - How Your Systems Keep Running Day After Day - John Allspaw - https://www.youtube.com/watch?v=xA5U85LSk0M&t=445s
 - Working at the Center of the Cyclone - Dr. Richard Cook - https://www.youtube.com/watch?v=3ZP98stDUf0
